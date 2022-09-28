@@ -1,0 +1,3 @@
+export const REQUEST_RESET_SUCCESS = 'ForgotPassword/REQUEST_RESET_SUCCESS';
+export const REQUEST_FAILURE = 'ForgotPassword/REQUEST_FAILURE';
+export const RESET_FORGOT_PASSWORD_PARAMS = 'ForgotPassword/RESET_FORGOT_PASSWORD_PARAMS';

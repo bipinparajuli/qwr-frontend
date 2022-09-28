@@ -1,0 +1,3 @@
+export const VERIFY_USER_SUCCESS = 'UserVerification/VERIFY_USER_SUCCESS';
+export const VERIFY_USER_FAILURE = 'UserVerification/VERIFY_USER_FAILURE';
+export const RESET_VERIFICATION_PROCESS = 'UserVerification/RESET_VERIFICATION_PROCESS';

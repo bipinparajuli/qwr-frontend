@@ -1,0 +1,41 @@
+.update-area{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: #fff; */
+    padding: 15px;
+
+}
+
+.apk{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: #fff; */
+    margin-bottom: 15px;
+    width: 250px;
+}
+.current-apk{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: #fff; */
+    margin-bottom: 15px;
+    width: 350px;
+}
+
+.package-area{
+    display: flex;
+    padding: 10px 15px;
+    justify-content: space-between;
+    /* background-color: #fff; */
+}
+.version{
+    margin-left: 15%;
+}
+
+.right,.left{
+    margin-top: 10px;
+}
+
+.previous-apk{
+    /* background-color: #fff; */
+    padding-left: 15px;
+}
